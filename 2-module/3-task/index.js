@@ -12,3 +12,5 @@ let calculator = {
    this.b = b;
   }
 };
+
+window.calculator = calculator;
