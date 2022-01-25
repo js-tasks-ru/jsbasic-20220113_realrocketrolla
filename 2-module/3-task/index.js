@@ -12,9 +12,3 @@ let calculator = {
    this.b = b;
   }
 };
-
-calculator.read(a, b);
-console.log(calculator.sum());
-console.log(calculator.mul());
-
-window.calculator = calculator;
