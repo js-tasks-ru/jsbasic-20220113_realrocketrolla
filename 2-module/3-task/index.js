@@ -11,6 +11,8 @@ let calculator = {
    this.a = a;
    this.b = b;
   }
+
 };
 
 window.calculator = calculator;
+
